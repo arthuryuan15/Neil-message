@@ -1,4 +1,4 @@
-The code for LARAVEL essentials you need to know in 45 minutes
+The code for LARAVEL essentials you need to know in 45 minutes with front-end part, that will really save your time
 
 https://www.youtube.com/watch?v=ubfxi21M1vQ
 
